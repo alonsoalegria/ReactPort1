@@ -6,9 +6,10 @@ import Footer from './components/Footer';
 import './App.css';
 
 //custom components from @material-ui
-import ImportExportIcon from '@material-ui/icons/ImportExport';
+/*import ImportExportIcon from '@material-ui/icons/ImportExport';
 import ComputerIcon from '@material-ui/icons/Computer';
 import HttpIcon from '@material-ui/icons/Http';
+*/
 
 import DescriptionIcon from '@material-ui/icons/Description';
 import PersonIcon from '@material-ui/icons/Person';
